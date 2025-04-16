@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"*.js": "javascript",
+		"*.c": "c",
+		"stdio.h": "c",
+		"time.h": "c",
+		"stdlib.h": "c"
+	},
+	"C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
+}
