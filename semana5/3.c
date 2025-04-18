@@ -87,7 +87,6 @@ int esPrimo(int num)
     }
     return primo;
 }
-
 float calcularPromedioNoPrimosNoMultiplos(int numeros[], int longitud)
 {
     float sum = 0;
@@ -103,3 +102,6 @@ float calcularPromedioNoPrimosNoMultiplos(int numeros[], int longitud)
 
     return (float)sum / longitud;
 }
+
+
+
